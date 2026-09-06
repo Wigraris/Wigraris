@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Wigraris/Wigraris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi, I'm Dias 👋</h1> <h3 align="center">Full-stack JS/TS developer, currently leveling up from intern → Senior</h3> <p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> </p>
+About me
+🔭 Right now I'm building TaskFlow — a full-stack team task manager (React + Express + PostgreSQL, real-time updates via Socket.io). Not a tutorial clone — built to be portfolio-grade and, eventually, actually sellable.
+🎓 University student, self-teaching full-stack dev on the side.
+🌱 I learn by reading docs and source code, breaking working code on purpose to see why it breaks, and fixing my own bugs before asking anyone for help.
+🎯 Goal: go from zero professional experience to a real Senior Full Stack role — through real projects, not freelance gigs.
+💬 Ask me about React, Express, Sequelize-TypeScript, PostgreSQL, or Socket.io.
+⚡ Fun fact: I run Arch (btw).
+GitHub stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wigraris&show_icons=true&theme=dark&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wigraris&layout=compact&theme=dark&hide_border=true" /> </p>
