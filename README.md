@@ -5,4 +5,4 @@ About me
 🎯 Goal: go from zero professional experience to a real Senior Full Stack role — through real projects, not freelance gigs.
 ⚡ Fun fact: I run Arch (btw).
 💼 First project: https://first-website-deploy.vercel.app
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wigraris&show_icons=true&theme=dark&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wigraris&layout=compact&theme=dark&hide_border=true" /> </p>
+
