@@ -2,9 +2,7 @@
 About me
 🔭 Right now I'm building TaskFlow — a full-stack team task manager (React + Express + PostgreSQL, real-time updates via Socket.io). Not a tutorial clone — built to be portfolio-grade and, eventually, actually sellable.
 🎓 University student, self-teaching full-stack dev on the side.
-🌱 I learn by reading docs and source code, breaking working code on purpose to see why it breaks, and fixing my own bugs before asking anyone for help.
 🎯 Goal: go from zero professional experience to a real Senior Full Stack role — through real projects, not freelance gigs.
-💬 Ask me about React, Express, Sequelize-TypeScript, PostgreSQL, or Socket.io.
 ⚡ Fun fact: I run Arch (btw).
-GitHub stats
+💼 First project: https://first-website-deploy.vercel.app
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wigraris&show_icons=true&theme=dark&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wigraris&layout=compact&theme=dark&hide_border=true" /> </p>
